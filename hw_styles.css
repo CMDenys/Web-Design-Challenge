@@ -2,7 +2,7 @@
 .container{
     background-color: rgb(147, 141, 141);
     height: 500px;
-    width: auto;
+    width: 1000px;
 }
 
 
@@ -22,9 +22,9 @@
 }
 
 /*doesn't work*/
-.summary h2{
+/*.summary h2{
     align-content: center;
-}
+}*/
 
 .navbar li{
     display: inline-block;
