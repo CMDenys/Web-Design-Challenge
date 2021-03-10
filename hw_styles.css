@@ -2,22 +2,31 @@
 /*.container{
     background-color: rgb(147, 141, 141);
     height: 500px;
-    width: 1000px;
+    max-width: fit-content
 }*/
 
-#box-1{
+
+.box-1 a{
     background-color: #20968a;
-    float: left 50%
-    width: 100px;
-    height: 30px;
-    font-size: medium;
-    color: #fffff0;
-    text-align: center; 
-    vertical-align: middle;
+    float: left 50%;
+    width: 150;
+    height: 50px;
     line-height: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: x-large;
 }
+
+#box-2 ul{
+    padding-top: 10px;
+
+}
+
+
+
 .summary{
     color: #20968a;
+    text-align: center;
 }
 
 /*doesn't work*/
@@ -38,10 +47,30 @@
     color: #000;
     text-decoration: none;
 }
+h1{
+    text-align: left;
+    color: #20968a;
+}
 
 h2{
     text-align: center;
+    color: #20968a;
+    font-size: large;
+}
+
+h3{
+    text-align: center;
+    color: #20968a;
+    font-size: large;
+    padding-left: 28%;
+}    
 }
 .dropdown{
     position: relative;
+}
+
+h3{
+    text-align: left;
+    color: #20968a;
+    font-size: larger;
 }

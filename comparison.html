@@ -3,7 +3,7 @@
   
 <head>
   <meta charset="UTF-8">
-  <title>Max Temperature</title>
+  <title>Web Design Challenge</title>
   <link rel="stylesheet" type="text/css" href="hw_styles.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 </head>
@@ -40,53 +40,48 @@
           </ul>
         </div>
     </nav>
-  </header>  
-
-    <div class='container'>
-      <div class="row">
-        <div class="col-md-8">
-                <header class="summary">
-                    <h1>
-                        <p>Max Temperature</p>
-                    </h1>
-                </header>
-                <section>
-                    <img src="Resources/assets/images/Fig1.png">
-                </section>
-                <section>
-                  <p>
-                    As expected, the weather becomes significantly warmer as one approaches the equator.  More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere.  This may be due to the tilt of the earth at the time of the year this data was gathered.
-                  </p>
-                </section>
-        </div>
-      
-        <div class="col-md-4">
-          <header class="summary">
-            <h2>Visualizations</h2>
-          </header>
-          <div class="row">
-            <div class="col-xs-3 col-sm-3 col-md-6">
-              <img src="Resources/assets/images/Fig1.png" alt="lat_temp" style="width: 200px;height:200px;">
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-6">
-              <img src="Resources/assets/images/Fig2.png" alt="lat_humid" style="width:200px;height:200px;">
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-xs-3 col-sm-3 col-md-6">
-              <img src="Resources/assets/images/Fig3.png" alt="lat_cloud" style="width:200px;height:200px;">
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-6">
-              <img  src="Resources/assets/images/Fig4.png" alt="lat_wind" style="width:200px;height:200px;">
-            </div>     
-          </div>
-        </div>
+  </header>
+  <h1>Comparison: Latitude vs. X</h1>
+  <hr>
+  <div class='container'>
+    <div class="row">
+      <h3>vs. Max Temperature</h3>  
+      <div class="col-md-12">
+        <a href="max_temp.html">
+          <img src="Resources/assets/images/Fig1.png" alt="temp">
+        </a>
       </div>
+    </div>
+    <div class="row">
+      <h3>vs. Humidity</h3>  
+        <div class="col-md-12">
+          <a href="humidity.html">
+            <img src="Resources/assets/images/Fig2.png" alt="humidity">
+          </a>
+        </div>    
     </div>  
+    <div class="row">
+      <h3>vs. Cloudiness</h3>     
+        <div class="col-md-12">
+          <a href="cloudiness.html">
+            <img src="Resources/assets/images/Fig3.png" alt="cloudiness">
+          </a>
+        </div>    
+    </div>  
+    <div class="row">
+      <h3>vs. Wind Speed</h3>  
+        <div class="col-md-12">
+          <a href="wind_speed.html">
+            <img src="Resources/assets/images/Fig4.png" alt="wind_speed">
+          </a>
+        </div>    
+    </div>  
+  </div>      
+
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      
   
-
 </body>
 </html>
