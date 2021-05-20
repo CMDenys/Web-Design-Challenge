@@ -8,6 +8,9 @@ A landing page containing:
 <ul>
   <li>An explanation of the project.</li>
   <li>Links to each visualizations page, with a sidebar containing preview images of each plot and link that takes user to that visualization.</li>
+</ul>
+
+< src="Images/landingResize.png" width="400">
 
 •	Four visualization pages, each with: 
 o	A descriptive title and heading tag.
