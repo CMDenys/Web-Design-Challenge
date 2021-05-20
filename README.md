@@ -10,7 +10,7 @@ A landing page containing:
   <li>Links to each visualizations page, with a sidebar containing preview images of each plot and link that takes user to that visualization.</li>
 </ul>
 
-<img src="Images/landingResize.png" width="400">
+<img src="Images/landingResize.png" width="700">
 
 •	Four visualization pages, each with: 
 o	A descriptive title and heading tag.
