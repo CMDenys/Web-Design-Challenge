@@ -26,7 +26,6 @@ For this project, a visualization dashboard website was created using visualizat
 <ul>
   <li>Contains all of the visualizations on the same page for easy comparison.</li>
   <li>Uses a Bootstrap grid for the visualizations.</li>
-  <li></li>
 </ul>
 <p align="center">
 <img src="Images/comparison-lg.png" width="700">
@@ -40,6 +39,16 @@ For this project, a visualization dashboard website was created using visualizat
 <img src="Images/data-lg.png" width="700">
 </p>
 
-
- 
-
+<hr>
+<strong>At the top of each page, the website contains a navigation menu that:</strong>
+<ul>
+  <li>Has the name of the site on the left of the nav which allows users to return to the landing page from any page.</li>
+  <li>Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+    <p align="center">
+      <img scr="Images/nav-sm.png" width="400">
+    </p></li>
+  <li>Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.<li>
+  <li>Is responsive (using media queries).</li>
+</ul>
+    
+    
