@@ -2,7 +2,7 @@
 
 For this project, a visualization dashboard website was created using visualizations created in a previous assignment concerning weather data.  
 
-Included in the website are:
+<strong>Included in the website are:</strong>
 
 A landing page containing: 
 <ul>
