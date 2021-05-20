@@ -48,7 +48,7 @@ For this project, a visualization dashboard website was created using visualizat
       <img src="Images/nav-sm.png" width="400">
     </p>
   </li>
-  <li>Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.<li>
+  <li>Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.</li>
   <li>Is responsive (using media queries).</li>
 </ul>
     
