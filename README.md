@@ -3,7 +3,6 @@
 For this project, a visualization dashboard website was created using visualizations created in a previous assignment concerning weather data.  
 
 <h1>Included in the website are:</h1>
-
 <strong>A landing page containing:</strong> 
 <ul>
   <li>An explanation of the project.</li>
@@ -38,8 +37,8 @@ For this project, a visualization dashboard website was created using visualizat
 <p align="center">
 <img src="Images/data-lg.png" width="700">
 </p>
-
 <hr>
+
 <strong>At the top of each page, the website contains a navigation menu that:</strong>
 <ul>
   <li>Has the name of the site on the left of the nav which allows users to return to the landing page from any page.</li>
