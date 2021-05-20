@@ -2,26 +2,44 @@
 
 For this project, a visualization dashboard website was created using visualizations created in a previous assignment concerning weather data.  
 
-<strong>Included in the website are:</strong>
+<h1>Included in the website are:</h1>
 
-A landing page containing: 
+<strong>A landing page containing:</strong> 
 <ul>
   <li>An explanation of the project.</li>
   <li>Links to each visualizations page, with a sidebar containing preview images of each plot and link that takes user to that visualization.</li>
 </ul>
-
+<p align="center">
 <img src="Images/landingResize.png" width="700">
+</p>
 
-•	Four visualization pages, each with: 
-o	A descriptive title and heading tag.
-o	The plot/visualization itself for the selected comparison.
-o	A paragraph describing the plot and its significance.
-•	A "Comparisons" page that: 
-o	Contains all of the visualizations on the same page so we can easily visually compare them.
-o	Uses a Bootstrap grid for the visualizations. 
-	The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
-•	A "Data" page that: 
-o	Displays a responsive table containing the data used in the visualizations. 
-	The table must be a bootstrap table component. Hint 
-	The data must come from exporting the .csv file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe. See the documentation here 
-![image](https://user-images.githubusercontent.com/74555609/119051532-ea264700-b988-11eb-9f1c-eae4414b1532.png)
+<strong>Four visualization pages, each with:</strong> 
+<ul>
+  <li>A descriptive title and heading tag.</li>
+  <li>The plot/visualization itself for the selected comparison.</li>
+  <li>A paragraph describing the plot and its significance.</li>
+</ul>
+<p align="center">
+<img src="Images/visualize-lg.png" width="700">
+</p>
+<strong>A "Comparisons" page that:</strong>
+<ul>
+  <li>Contains all of the visualizations on the same page for easy comparison.</li>
+  <li>Uses a Bootstrap grid for the visualizations.</li>
+  <li></li>
+</ul>
+<p align="center">
+<img src="Images/comparison-lg.png" width="700">
+</p>
+<strong>A "Data" page that:</strong>
+<ul>
+  <li>Displays a responsive table containing the data used in the visualizations. </li>
+  <li>Contains data from a .csv file as HTML, converted to HTML.</li>
+</ul>
+<p align="center">
+<img src="Images/data-lg.png" width="700">
+</p>
+
+
+ 
+
