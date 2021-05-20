@@ -46,7 +46,8 @@ For this project, a visualization dashboard website was created using visualizat
   <li>Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
     <p align="center">
       <img scr="Images/nav-sm.png" width="400">
-    </p></li>
+    </p>
+  </li>
   <li>Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.<li>
   <li>Is responsive (using media queries).</li>
 </ul>
