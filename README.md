@@ -34,6 +34,7 @@ For this project, a visualization dashboard website was created using visualizat
 </p>
 <strong>A "Data" page that:</strong>
 
+
 <ul>
   <li>Displays a responsive table containing the data used in the visualizations. </li>
   <li>Contains data from a .csv file as HTML, converted to HTML.</li>
