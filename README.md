@@ -1,5 +1,3 @@
-# Web-Design-Challenge
-
 For this project, a visualization dashboard website was created using visualizations created in a previous assignment concerning weather data.  
 
 <h1>Included in the website are:</h1>
